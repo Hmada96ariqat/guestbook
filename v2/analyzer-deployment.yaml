@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: analyzer
-        image: ibmcom/analyzer:v1.1
+        image: sn-lab-ahmad ariqat
         imagePullPolicy: Always
         resources:
           requests:
